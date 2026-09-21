@@ -1,2 +1,1 @@
-# unicart-group-analysis
-This is a project that details the analysis of Unicart Group's sales data. It features a dashborad and detailed findings from the analysis.
+# Unicart Retail Group Sales Performance Report (2020 - 2025)
